@@ -1,0 +1,14 @@
+E:\work\code\git clone\csharpLearn\bin\Debug\net7.0\csharpLearn.exe
+E:\work\code\git clone\csharpLearn\bin\Debug\net7.0\csharpLearn.deps.json
+E:\work\code\git clone\csharpLearn\bin\Debug\net7.0\csharpLearn.runtimeconfig.json
+E:\work\code\git clone\csharpLearn\bin\Debug\net7.0\csharpLearn.dll
+E:\work\code\git clone\csharpLearn\bin\Debug\net7.0\csharpLearn.pdb
+E:\work\code\git clone\csharpLearn\obj\Debug\net7.0\csharpLearn.GeneratedMSBuildEditorConfig.editorconfig
+E:\work\code\git clone\csharpLearn\obj\Debug\net7.0\csharpLearn.AssemblyInfoInputs.cache
+E:\work\code\git clone\csharpLearn\obj\Debug\net7.0\csharpLearn.AssemblyInfo.cs
+E:\work\code\git clone\csharpLearn\obj\Debug\net7.0\csharpLearn.csproj.CoreCompileInputs.cache
+E:\work\code\git clone\csharpLearn\obj\Debug\net7.0\csharpLearn.dll
+E:\work\code\git clone\csharpLearn\obj\Debug\net7.0\refint\csharpLearn.dll
+E:\work\code\git clone\csharpLearn\obj\Debug\net7.0\csharpLearn.pdb
+E:\work\code\git clone\csharpLearn\obj\Debug\net7.0\csharpLearn.genruntimeconfig.cache
+E:\work\code\git clone\csharpLearn\obj\Debug\net7.0\ref\csharpLearn.dll

@@ -1,2 +1,6 @@
 cách bắt đầu 1 project:
-- mở terminal:  dotnet new console
+- mở terminal:  
+    + dotnet new console
+    + dotnet restore (optional)
+    + dotnet run
+    + debug thì ấn vào chỗ debug và chọn c# 
