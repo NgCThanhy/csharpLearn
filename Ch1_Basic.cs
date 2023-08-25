@@ -1,4 +1,4 @@
-namespace newClass
+namespace csharpLearn
 {
     public class MyClass
     {

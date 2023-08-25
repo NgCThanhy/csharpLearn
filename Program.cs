@@ -1,4 +1,5 @@
-﻿using csharpLearn;
+﻿using System;
+using newClass;
 
 internal class Program
 {

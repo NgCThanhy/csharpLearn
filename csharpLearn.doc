@@ -4,3 +4,21 @@ cách bắt đầu 1 project:
     + dotnet restore (optional)
     + dotnet run
     + debug thì ấn vào chỗ debug và chọn c# 
+
+- các thành phần chính trong 1 project c#:
+    + namespace:
+        cứ xem nó như là 1 thư viện vậy ( mặc dù 1 thư viện thường chứa nhiều namespace)
+        namespace <tên namespace>{
+        // Các thành phần bên trong namespace bao gồm các lớp, enum, delegate hoặc các
+        // namespace con
+        }
+
+
+    + class: 
+        giống java
+    + method:
+        giống code thường khác thôi
+
+
+
+
