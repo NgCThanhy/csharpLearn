@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\work\\code\\git clone\\csharpLearn\\csharpLearn.csproj": {}
+    "e:\\work\\code\\git clone\\csharpLearn\\csharpLearn.csproj": {}
   },
   "projects": {
-    "E:\\work\\code\\git clone\\csharpLearn\\csharpLearn.csproj": {
+    "e:\\work\\code\\git clone\\csharpLearn\\csharpLearn.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\work\\code\\git clone\\csharpLearn\\csharpLearn.csproj",
+        "projectUniqueName": "e:\\work\\code\\git clone\\csharpLearn\\csharpLearn.csproj",
         "projectName": "csharpLearn",
-        "projectPath": "E:\\work\\code\\git clone\\csharpLearn\\csharpLearn.csproj",
+        "projectPath": "e:\\work\\code\\git clone\\csharpLearn\\csharpLearn.csproj",
         "packagesPath": "C:\\Users\\1chit\\.nuget\\packages\\",
-        "outputPath": "E:\\work\\code\\git clone\\csharpLearn\\obj\\",
+        "outputPath": "e:\\work\\code\\git clone\\csharpLearn\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\1chit\\AppData\\Roaming\\NuGet\\NuGet.Config"

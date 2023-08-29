@@ -103,7 +103,43 @@ namespace Basic  {
 
     public class ArrayString{
         public static void Array(){
-            
+            int[] arr1 = new int[5]; // Create an array with 5 null elements
+            int[] arr2 = { 85, 92, 78, 95, 88 };
+
+            int arrayLength = arr2.Length; // Returns the length of the array
+            for (int i = 0; i < arrayLength; i++){
+                Console.WriteLine(arr2[i]);
+            }
+
+            int[,] matrix = new int[3, 3]; // 2D array (3x3)
+            matrix[0, 0] = 1;
+            matrix[0, 1] = 2;
+            // ... and so on
+
+            int[][] jaggedArray = new int[3][];
+            jaggedArray[0] = new int[] { 1, 2, 3 };
+            jaggedArray[1] = new int[] { 4, 5 };
+            jaggedArray[2] = new int[] { 6, 7, 8, 9 };
+        }
+    
+        public static void StringType() {
+            string message = "Hello!"; // Using ""
+            string emptyString = ""; // Empty string
+            string nullString = null; // Null reference
+            string Name = "yami";
+            string fullName = message + " " + Name;
+            int strLength = fullName.Length;
+
+            //Strings can be accessed using zero-based indexing:
+            char firstChar = fullName[0]; // Access the first character (H)
+            char lastChar = fullName[strLength - 1]; // Access the last character (i)
+
+            // Convert to uppercase and lowercase
+            string upper = fullName.ToUpper();
+            string lower = fullName.ToLower();
+
+            // Substring
+            string sub = fullName.Substring(4, 5); // Gets "world"
         }
     }
 
