@@ -139,7 +139,29 @@ namespace Basic  {
             string lower = fullName.ToLower();
 
             // Substring
-            string sub = fullName.Substring(4, 5); // Gets "world"
+            string sub = fullName.Substring(4, 5); // Gets "yami"
+
+            // Replace
+            string replaced = fullName.Replace("yami", "kyun");
+
+            // Remove whitespace
+            string trimmed = fullName.Trim();
+
+            // Split
+            string[] words = fullName.Split(' ');
+
+
+            // You can compare strings using various methods:
+            string str1 = "hello";
+            string str2 = "Hello";
+            bool areEqual = str1.Equals(str2, StringComparison.OrdinalIgnoreCase); // (true)  ignore upper and lower case
+
+            // StringComparison.CurrentCulture: Uses the current culture's rules for string comparison.
+            // StringComparison.CurrentCultureIgnoreCase: Uses the current culture's rules for case-insensitive string comparison.
+            // StringComparison.InvariantCulture: Uses the invariant culture's rules for string comparison.
+            // StringComparison.InvariantCultureIgnoreCase: Uses the invariant culture's rules for case-insensitive string comparison.
+            // StringComparison.Ordinal: Performs a simple binary comparison without regard to culture or case.
+            // StringComparison.OrdinalIgnoreCase: Performs a case-insensitive binary comparison without regard to culture.
         }
     }
 
