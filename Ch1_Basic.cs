@@ -1,4 +1,5 @@
 namespace Basic  {
+    
     public class TryVar{
         // dataType variableName = initialValue;
         // 3 type of variable : Data Types, Type Inference, Constants     
